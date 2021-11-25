@@ -6,5 +6,5 @@ the Ministry of Road Transport and Highways. The purpose of the Good Samaritan l
 come to the aid and rescue of victims of road crashes.It has been more than two years since the Supreme Court Judgement on Good 
 Samaritan Law. 84% people are not aware of the Good Samaritan Law.
 
-This project on Computer Graphics is an attempt to spread awareness of this law.
+This project on Computer Graphics is to spread awareness of this law and is implemented using OpenGL.
 
